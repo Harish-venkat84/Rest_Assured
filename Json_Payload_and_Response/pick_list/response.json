@@ -1,0 +1,33 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Success",
+  "requestUrl" : "/nma/customerorders/picklist?cmd=create&cmd=create&branchCode=768&branchCode=768",
+  "returnDataCount" : 1,
+  "returnData" : [ {
+    "transactionId" : "COHX0E220002849",
+    "branchCode" : "768",
+    "interStoreFlag" : false,
+    "inventoryStatus" : "PROCESSED",
+    "deliveryStatus" : "OPEN",
+    "partShipmentOrderId" : "CSQ-CO-70416270-S1",
+    "itemDetails" : [ {
+      "itemId" : "14735",
+      "seqNumber" : 1,
+      "orderQty" : 2.0,
+      "fulfilledQty" : 0.0,
+      "pendingQty" : 2.0,
+      "pickListQty" : 2.0,
+      "reservedQty" : 2.0,
+      "partialShortPickAllowedFlag" : true,
+      "batchDetails" : [ {
+        "batchId" : "1234556",
+        "expiryDate" : "2024-11-30",
+        "mrpRate" : 500.0,
+        "qty" : 2.0,
+        "barCode" : "76800006098"
+      } ]
+    } ]
+  } ],
+  "failureData" : [ ],
+  "failureCount" : 0
+}

@@ -1,0 +1,11 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Order has been created successfully, Transaction Id : COHX0E220002849",
+  "requestUrl" : "/nma/customerorders/b2b?cmd=create&branchCode=768",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "subTypeCode" : "CU_ORD",
+    "transactionId" : "COHX0E220002849",
+    "transactionTimestamp" : "2022-12-17T16:16:42.244+0000"
+  }
+}

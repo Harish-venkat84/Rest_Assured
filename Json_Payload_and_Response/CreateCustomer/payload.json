@@ -1,0 +1,24 @@
+{
+  "partyName" : "NMS1512202109 MEDICAL LIMITED [SP NMS1512202109 MEDICAL LIMITED]",
+  "mappedFcs" : [ "768" ],
+  "dlNum1" : "RLF20DL2022000105",
+  "partyContacts" : [ {
+    "country" : "INDIA",
+    "pincode" : "580030",
+    "city" : "BANGALORE",
+    "stateName" : "KARNATAKA",
+    "contactName" : "",
+    "addressLine1" : "NO 97/3 97/6, PID NO 34A/898",
+    "addressLine2" : "& RAJEEV NAGAR SHIRUR PARK",
+    "addressLine3" : "",
+    "addressLine4" : "",
+    "mobileNum1" : "7860875689"
+  } ],
+  "stateCode" : "KA",
+  "partyId" : "1512202109",
+  "gstin" : "29AABPP6503E000",
+  "pan" : "AABPP6503E",
+  "customerRefId" : "NMS1512202109",
+  "partyShortName" : "NMS1512202109 MEDICAL LIMITED [SP NMS1512202109 MEDICAL LIMITED]",
+  "dlNum2" : "RLF21DL2022000105"
+}

@@ -1,0 +1,38 @@
+{
+  "returnCode" : 1000,
+  "returnText" : "Success",
+  "requestUrl" : "/b2bcustomers",
+  "returnDataCount" : 1,
+  "returnData" : {
+    "partyName" : "NMS1512202109 MEDICAL LIMITED [SP NMS1512202109 MEDICAL LIMITED]",
+    "partyShortName" : "NMS1512202109 MEDICAL LIMITED  SP NMS1512202109 MEDICAL LIMITED ",
+    "partyType" : "OG",
+    "partySubType" : "RRS",
+    "stateCode" : "KA",
+    "gstin" : "29AABPP6503E000",
+    "pan" : "AABPP6503E",
+    "dlNum1" : "RLF20DL2022000105",
+    "dlNum2" : "RLF21DL2022000105",
+    "statusCode" : "ACTV",
+    "distanceKms" : 0,
+    "createdDate" : "2022-12-17T14:39:44.509+0000",
+    "lastUpdateDate" : "2022-12-17T14:39:44.509+0000",
+    "lastUpdateUser" : "API-CSQUARE",
+    "gstinCategoryFlag" : true,
+    "partyContacts" : [ {
+      "addressLine1" : "NO 97/3 97/6, PID NO 34A/898",
+      "addressLine2" : "& RAJEEV NAGAR SHIRUR PARK",
+      "city" : "BANGALORE",
+      "stateName" : "KARNATAKA",
+      "country" : "INDIA",
+      "pincode" : "580030",
+      "mobileNum1" : "7860875689",
+      "lastUpdateDate" : "2022-12-17T14:39:44.509+0000",
+      "purposeType" : "OFF_ADD"
+    } ],
+    "customerRefId" : "NMS1512202109",
+    "tagList" : [ ],
+    "partyId" : "1512202109",
+    "buId" : "000"
+  }
+}
